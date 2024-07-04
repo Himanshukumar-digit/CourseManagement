@@ -1,1 +1,1 @@
-# CourseManagement
+# CourseRegistrationApp2
